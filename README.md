@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavana1227
 - 👀 I’m interested in Learning new technologies
-- 🌱 I’m currently learning Javascript, Node.js 
+- 🌱 I’m currently learning Javascript, React.js 
 - 💞️ I’m looking to collaborate on Front- End development
 - 📫 How to reach me you can contact me on thumubhavana@gmail.com
 - 😄 Pronouns: she/her.
