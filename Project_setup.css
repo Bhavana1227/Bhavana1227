@@ -1,0 +1,84 @@
+body{
+    font-family: Cormorant;
+    font-weight: lighter;
+}
+
+h1{
+    display:inline-block;
+    font-weight: lighter;
+    margin:0 32px 0 0;
+    
+
+}
+.links{
+    display:inline-block;
+    
+}
+.links ul{
+    padding:0;
+}
+.links li{
+    display:inline-block;
+       
+}
+
+.links a{
+    color:black;
+    text-decoration:none ;
+    margin:0 8px;
+    border-bottom: 1px solid black;
+    
+}
+.navbar{
+    margin: 32px;
+}
+.card{
+    width:49%; 
+    display:inline-block;
+    box-sizing: border-box;
+    padding:50px; 
+
+}
+.card img{
+
+    height:500px;
+    width:100%;
+    object-fit: cover;
+}
+.card img:hover{
+    opacity: 0.9;
+}
+.card h2{
+    display:inline-block;
+    margin:8px 0 16px 0;
+    font-weight: lighter;
+}
+.Gallery{
+    padding:16px;
+}
+.about{
+    width:40%;
+    min-width: 600px;
+    margin:100px 0 100px 200px;
+
+}
+.about h3{
+    
+    font-size: 40px;
+    font-weight: lighter;   
+}
+.Contact{
+    margin-top:100px;
+}
+.Contact p{
+    margin:0;
+    font-size:20px;
+}
+.Idea{
+      border-bottom: 1px solid black;
+      margin-top: 0;
+      display: inline-block;
+      padding:8px;
+      
+
+}
