@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front- End development
 - 📫 How to reach me you can contact me on thumubhavana@gmail.com
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: There is always 2 sides of story.
+- ⚡ Fun fact: Nobody knows how many stars are there in space.
 
 <!---
 Bhavana1227/Bhavana1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
